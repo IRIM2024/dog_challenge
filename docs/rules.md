@@ -13,7 +13,7 @@ The aim of this challenge is to test the robot's ability to navigate various obs
 
 * Other obstacles include stairs, ramps with different slopes, tunnels, slippery terrain, and soft terrain (such as foam). Some obstacles require specific abilities, such as crawling under a low bar or jumping over a high step.
 
-* A score is associated to each obstacle (see https://github.com/ERF2024/dog_challenge/blob/master/docs/obstacle_scores.md)
+* A score is associated to each obstacle (see <a href="docs/obstacle_scores.md">obstacle_scores </a>)
 
 * The judging committee will evaluate the percentage of completion of each task (0% up to full score)
 

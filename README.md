@@ -35,7 +35,7 @@ A repository for I-RIM DOG Challenge. Here you can find the simulation environme
 
 This repository provides framework and the URDF for the challenge for simulation 
 
-- You can find detailed informations about the challenge on the <a href="docs/rule.md">rule page </a>
+- You can find detailed informations about the challenge on the <a href="docs/rules.md">rule page </a>
 - The supported robot for this simulation is Go1 from Unitree robotics. A real prototype of the robot (EDU version) is provided from EagleProjects to the teams that might need it but you are free to use your own quadruped platform.
 
 <img src="images/go1_robot.jpeg" width="300"/>
